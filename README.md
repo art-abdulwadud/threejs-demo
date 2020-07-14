@@ -1,6 +1,6 @@
 # Threejs Demo
 
-In this project, I created a cube with `THREE` js directly and two Icosahedron objects with `react-three-fiber` package. A super easy demo for beginners.
+In this project, I created a cube with `THREE` js directly and two Icosahedron objects with `react-three-fiber` package. A super easy demo for beginners. [Have a look](https://three-react-demo.netlify.app).
 
 ## Steps to create 3D
 
@@ -19,3 +19,5 @@ In this project, I created a cube with `THREE` js directly and two Icosahedron o
 - Finally, run `yarn start` or `npm start`
 
 From here, you can practise with the code, making changes as you please.
+
+For more info on `THREE` js, go to [Three js documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
